@@ -1,0 +1,42 @@
+# Compiled output
+/livros-angular/dist
+/livros-angular/tmp
+/livros-angular/out-tsc
+/livros-angular/bazel-out
+
+# Node
+/livros-angular/node_modules
+/livros-next/node_modules
+/livros-react/node_modules
+/livros-angular/npm-debug.log
+/livros-angular/yarn-error.log
+
+# IDEs and editors
+/livros-angular/.idea/
+/livros-angular/.project
+/livros-angular/.classpath
+/livros-angular/.c9/
+/livros-angular/*.launch
+/livros-angular/.settings/
+/livros-angular/*.sublime-workspace
+
+# Visual Studio Code
+/livros-angular/.vscode/*
+/livros-angular/!.vscode/settings.json
+/livros-angular/!.vscode/tasks.json
+/livros-angular/!.vscode/launch.json
+/livros-angular/!.vscode/extensions.json
+/livros-angular/.history/*
+
+# Miscellaneous
+/livros-angular/.angular/cache
+/livros-angular/.sass-cache/
+/livros-angular/connect.lock
+/livros-angular/coverage
+/livros-angular/libpeerconnection.log
+/livros-angular/testem.log
+/livros-angular/typings
+
+# System files
+/livros-angular/.DS_Store
+/livros-angular/Thumbs.db

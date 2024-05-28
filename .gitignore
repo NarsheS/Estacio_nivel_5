@@ -1,0 +1,45 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+/livros-angular/dist
+/livros-angular/tmp
+/livros-angular/out-tsc
+/livros-angular/bazel-out
+
+# Node
+/livros-angular/node_modules
+/livros-next/node_modules
+/livros-react/node_modules
+/livro-servidor/node_modules
+/livros-angular/npm-debug.log
+/livros-angular/yarn-error.log
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# Miscellaneous
+/.angular/cache
+.sass-cache/
+/connect.lock
+/coverage
+/libpeerconnection.log
+testem.log
+/typings
+
+# System files
+.DS_Store
+Thumbs.db
